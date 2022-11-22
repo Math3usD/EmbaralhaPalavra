@@ -23,3 +23,4 @@ while contador < 5:
     print(frase)
 print(f"você teve {contador} tentativas")
 
+        
